@@ -1,9 +1,9 @@
 body {
-    background-image: url(../images/drag-race-background4.jpg);
+    background-image: url(../images/drag-race-background3.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
-    color: rgb(77, 3, 3);
+    color:black;
     display: flex;
     font-family: 'Catamaran', sans-serif;
     font-size: 50px;
