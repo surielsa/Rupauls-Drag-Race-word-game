@@ -5,4 +5,4 @@ This Word Search Game is RuPaul's Drag Race inspired. The goal is to figure out 
 
 This project was my first experience with JavaScript. It is a fun word search.
 
-Key: “alaska thunderfuck”, “manila luzon”, “bob the drag queen”, “monet x change”, “asia o hara”, “bianca del rio”, “laganja estranja”, “valentina”, “ginger minj”, “ben de la creme”, “trixie mattel”, “katya”, “miss manjie”, “milk”, “bebe zahara benet”, “alyssa edwards”, “miz cracker”, “aquaria”, “trinity the tuck”, “adore delano”.
+Key: “alaska thunderfuck”, “manila luzon”, “bob the drag queen”, “monet x change”, “asia o hara”, “bianca del rio”, “laganja estranja”, “valentina”, “ginger minj”, “ben de la creme”, “trixie mattel”, “katya”, “miss vanjie”, “milk”, “bebe zahara benet”, “alyssa edwards”, “miz cracker”, “aquaria”, “trinity the tuck”, “adore delano”.
