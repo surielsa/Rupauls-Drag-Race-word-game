@@ -1,6 +1,6 @@
 $(document).ready(function () {
 
-    var possibleWords = ['alaska thunderfuck', 'manila luzon', 'bob the drag queen', 'monet x change', 'asia o hara', 'bianca del rio', 'laganja estranja', 'valentina', 'ginger minj', 'ben de la creme', 'trixie mattel', 'katya', 'miss manjie', 'milk', 'bebe zahara benet', 'alyssa edwards', 'miz cracker', 'aquaria', 'trinity the tuck', 'adore delano']
+    var possibleWords = ['alaska thunderfuck', 'manila luzon', 'bob the drag queen', 'monet x change', 'asia o hara', 'bianca del rio', 'laganja estranja', 'valentina', 'ginger minj', 'ben de la creme', 'trixie mattel', 'katya', 'miss vanjie', 'milk', 'bebe zahara benet', 'alyssa edwards', 'miz cracker', 'aquaria', 'trinity the tuck', 'adore delano']
 
     const maxGuess = 20
     var pauseGame = false
