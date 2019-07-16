@@ -2,7 +2,8 @@
 
 JavaScript Assignment
 
-https://surielsa.github.io/word-guess-game/
+https://surielsa.github.io/Rupauls-Drag-Race-word-game/
+
 
 This Word Search Game is RuPaul's Drag Race inspired. The goal is to figure out the famous queens. The key for these is listed below for those who have been deprived of the world of Drag Race.
 
