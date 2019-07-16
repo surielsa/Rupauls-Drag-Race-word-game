@@ -1,4 +1,5 @@
-# word-guess-game
+# Rupauls-Drag-Race-word-game
+
 JavaScript Assignment
 
 https://surielsa.github.io/word-guess-game/
